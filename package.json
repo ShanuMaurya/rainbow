@@ -1,0 +1,26 @@
+{
+  "name": "rainbow",
+  "version": "0.0.1",
+  "description": "this is my first bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Shanu Maurya",
+  "license": "MIT",
+  "dependencies": {
+    "circular-json": "^0.5.9",
+    "discord-embed-maker": "^3.0.8",
+    "discord.js": "^11.4.2",
+    "event.js": "^0.1.0",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "mongoose": "^5.3.9",
+    "nekos.life": "^1.1.4",
+    "peer": "^0.2.10",
+    "save": "^2.3.2",
+    "treat": "^0.1.1",
+    "xp": "^1.0.1",
+    "ytdl-core": "^0.28.0"
+  }
+}

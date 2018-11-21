@@ -1,0 +1,194 @@
+{
+  "pat": {
+    "match": "pats?",
+    "disp": "{{author}} pats {{target}}",
+    "target_required": true,
+    "pics": [
+      "https://68.media.tumblr.com/71d93048022df065a1d2af96ab71afa3/tumblr_olykrec0DB1qbvovho1_540.gif",
+      "https://68.media.tumblr.com/f95f14437809dfec8057b2bd525e6b4a/tumblr_omvkl2SzeK1ql0375o1_540.gif",
+      "https://68.media.tumblr.com/cc0451847fa08b202f4bd7a1cb9bd327/tumblr_o2js2xhINq1tydz8to1_540.gif"
+    ],
+    "sources": [
+      "http://lilium.tumblr.com/post/157714340510",
+      "http://level-upper.tumblr.com/post/158448792121/kobayashi-san-chi-no-maid-dragon-episode-10",
+      "http://nyanpasuminasan.tumblr.com/"
+    ]
+  },
+  "kiss": {
+    "match": "kiss(?:es)?",
+    "disp": "{{author}} kisses {{target}}",
+    "target_required": true,
+    "pics": [
+      "https://68.media.tumblr.com/07ef3c6c688f1160681a8a004e1a2708/tumblr_onq159pW1L1u3p759o1_500.gif",
+      "https://68.media.tumblr.com/f34ce60eb214de0197516261224179ab/tumblr_onq159pW1L1u3p759o3_500.gif",
+      "https://68.media.tumblr.com/1cc64a988185d66a16150fa5b8f1a9aa/tumblr_onq159pW1L1u3p759o5_500.gif"
+    ],
+    "sources": [
+      "https://anime-shojo.tumblr.com/post/159067029380"
+    ]
+  },
+  "lick": {
+    "match": "licks?",
+    "disp": "{{author}} licks {{target}}",
+    "target_required": true,
+    "pics": [
+      "https://media.giphy.com/media/RQ7jEZTiuNRV6/giphy.gif"
+    ],
+    "sources": [
+      "https://giphy.com/gifs/cat-cute-nice-RQ7jEZTiuNRV6"
+    ]
+  },
+  "hug": {
+    "match": "hugs?",
+    "disp": "{{author}} hugs {{target}}",
+    "target_required": true,
+    "pics": [
+      "https://68.media.tumblr.com/18fdf4adcb5ad89f5469a91e860f80ba/tumblr_oltayyHynP1sy5k7wo1_540.gif",
+      "https://68.media.tumblr.com/443c4235cae34242d014e2bb1276810d/tumblr_orldmdZJ2x1vb10byo1_500.gif",
+      "https://68.media.tumblr.com/6ef60a705f8961196698f1ae06e488a1/tumblr_ouf53jRIpf1vb10byo1_500.gif",
+      "https://68.media.tumblr.com/5cffe47c3602bc79339473765a39e9cf/tumblr_oqxm6cOkN11vb10byo1_500.gif"
+    ],
+    "sources": [
+      "http://yuri-pics.tumblr.com/post/157599546983",
+      "http://otakudeliveryservice.tumblr.com/post/162134397543",
+      "http://otakudeliveryservice.tumblr.com/post/164262874410",
+      "http://otakudeliveryservice.tumblr.com/post/161592508471"
+    ]
+  },
+  "hug_no_target": {
+    "match": "hugs?",
+    "disp": "{{author}} hugs {{last}}",
+    "target_required": false,
+    "parent": "hug"
+  },
+  "boop": {
+    "match": "boops?",
+    "disp": "{{author}} boops {{target}}",
+    "target_required": true,
+    "pics": [
+      "http://68.media.tumblr.com/ade02431665ed0eade3f9af182f46320/tumblr_ojg0fyEXYd1t0t8rjo1_500.png"
+    ],
+    "sources": [
+      "http://otakudeliveryservice.tumblr.com/post/156119746841/akeemi-art-boop"
+    ]
+  },
+  "cuddle": {
+    "match": "cuddles?",
+    "disp": "{{author}} cuddles {{target}}",
+    "target_required": true,
+    "pics": [
+      "https://68.media.tumblr.com/0d75f3afd87a29cd4566598dfa8ff625/tumblr_okrw1cOUfT1w4hkclo1_540.gif",
+      "https://68.media.tumblr.com/5c0b0f3adab51474476b712c1bcc7b9e/tumblr_nxietzZELM1u32h4qo1_500.gif",
+      "https://68.media.tumblr.com/a3325f075a2d6041a60c200da5633cce/tumblr_niiqsac5pw1tvuu8no1_400.gif",
+      "https://68.media.tumblr.com/e6c55aff29b946533d9c553cedb84b69/tumblr_odwsl282tf1vgzj5xo1_540.jpg"
+    ],
+    "sources": [
+      "https://if-imthedevil.tumblr.com/post/156735713142/i-wish",
+      "http://hopefulhurricane.tumblr.com/post/132813323952",
+      "http://thewandererguy.tumblr.com/post/108722120992/if-it-isnt-evident-yet-i-need-cuddles",
+      "http://helloimrandom.tumblr.com/post/151262859185/im-adding-this-to-queue-on-22092016-i-wonder"
+    ]
+  },
+  
+    "sleep": {
+    "match": "sleeps?",
+    "disp": "{{author}} Sleeping {{target}}",
+    "target_required": false,
+    "pics": [
+     "https://78.media.tumblr.com/b88a6f7de66dded65bd60fcac432a221/tumblr_o9xnh81oWM1tydz8to1_540.gif"
+    ],
+    "sources": [
+         "http://nyanpasuminasan.tumblr.com/post/147494164685"
+    ]
+},
+
+    "drink": {
+    "match": "drinks?",
+    "disp": "{{author}} drinking {{target}}",
+    "target_required": true,
+    "pics": [
+      "https://78.media.tumblr.com/7e7713a2ef162e6960e01443218c271a/tumblr_oudgdm4wnm1r9i2iuo1_r3_540.gif",
+      "https://nerdramblesblog.files.wordpress.com/2017/01/tumblr_inline_nrul77ouju1szu3bc_500.gif"
+    ],
+    "sources": [
+      "http://lacuna-matata.tumblr.com/image/163967130220"
+    ]
+},
+
+ "punch": {
+    "match": "punch(?:es)?",
+    "disp": "{{author}} punches {{target}}",
+    "target_required": true,
+    "pics": [
+     "https://78.media.tumblr.com/2066a50a4ebdd201451879cc65a5dd32/tumblr_oc39axZ0fr1uii05io1_500.gif"
+    ],
+    "sources": [
+      "https://tsunderecupcake.tumblr.com/post/149113201442"
+    ]
+},
+
+ "bite": {
+    "match": "bite(?:s)?",
+    "disp": "{{author}} bites {{target}} (??_?) it's bleeding now",
+    "target_required": true,
+    "pics": [
+     "https://78.media.tumblr.com/9a6cefb67e990d4c2ea20cacfb7e08c4/tumblr_oiil6zlbsr1us99p0o1_500.gif",
+     "https://78.media.tumblr.com/30487f648bfb1ba30e9adc4c9b274fcc/tumblr_o853c0h8ki1udouqko1_500.gif",
+     "https://78.media.tumblr.com/43e8532081cea1716a0eb82177cfc757/tumblr_o3vwbq2uXk1udouqko1_500.gif",
+     "https://78.media.tumblr.com/65ec2badd2bb22c5f7c3793dcb559fbc/tumblr_o9ufk2gDmH1vviqkjo1_500.gif"
+    ],
+    "sources": [
+      "https://rabinoalbino.tumblr.com/post/154746273566/nhom-nhom",
+      "http://bugbuttrainbow.tumblr.com/post/145428605600/this-was-my-first-experience-with-a-cat-yet-i",
+      "http://bugbuttrainbow.tumblr.com/post/141529810957/anyone-else-have-a-friend-who-bites-them-no-no",
+      "http://lightribbon.tumblr.com/post/146943636684/hungry"
+    ]
+},
+
+ "bite_no_target": {
+    "match": "bite(?:s)?",
+    "disp": "{{author}} bites {{last}} (??_?) it's bleeding now",
+    "target_required": false,
+    "parent": "bite"
+},
+
+
+ "revive": {
+    "match": "revive(?:s)?",
+    "disp": "{{author}} reviving you {{target}}, you are safe now",
+    "target_required": true,
+    "pics": [
+
+     "https://tenor.com/xo5W.gif"
+    ],
+    "sources": [
+
+      "https://media1.tenor.com/images/e22c2cf685bc681841ec4b73c1bab1e3/tenor.gif?itemid=5538942"
+    ]
+},
+
+
+
+ "eat": {
+    "match": "eat(?:s)?",
+    "disp": "{{author}} eating {{target}}, ??",
+    "target_required": true, 
+    "pics" : [
+    
+    "https://78.media.tumblr.com/8a9a035e6aeb6fd5c86e3e76a7085db8/tumblr_ol2r5sJaxu1vviqkjo1_500.gif",
+    "",
+    "",
+    "",
+    ""
+   ],
+   
+   "sources": [
+   "",
+   "",
+   "",
+   "",
+   ""
+   ]
+   
+ }
+}
