@@ -1,0 +1,25 @@
+{
+  
+       "token" : "mfa.YTHHOMJY0qnPbI19fKkvc399Hbn3-eJnk6AISB0KUqmTnSJJFrpUivAmIgoUQyjuO6mpOQR9clBFgLX0nXOa",
+	
+    "channels" : [
+       
+        "499578006419931146",
+		"449970878193860609"
+    ],
+    "adminRole":"@Creator",
+	"prefix": "=",
+  "ccprefix": "=",
+  "ownerID": "400359111834861568",
+  "owner2": "507778684455878667",
+  "mentionpref": "@",
+  "version": "v1.1",
+  "node_ver": "8.11.2",
+  "monitor_channel": "485628085446639627",
+  "client_id": "507778684455878667",
+  "client_name": "Rainbow",
+  "client_surname": "Suzukaze",
+  "cur1Name": "coffee",
+  "cur2Name": "latte",
+  "curSymbol": ":coffee: "
+}
